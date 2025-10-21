@@ -11,6 +11,8 @@ A cool way for bikers to blink which way they are turning or merging that can be
 
 - Chargable using TP4056
 
+- Second Lipo for the convention specifically to switch if it runs out. 
+
 
 **Parts:**
 
